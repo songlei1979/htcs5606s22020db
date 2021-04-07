@@ -9,7 +9,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/phpMyAdmin/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -65,7 +65,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jiApD7DhDSG0pY5sNJiKKfzqbq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,6 +95,8 @@
       <updated>1604276718358</updated>
       <workItem from="1604276719418" duration="2666000" />
       <workItem from="1604293153465" duration="1325000" />
+      <workItem from="1617759523195" duration="486000" />
+      <workItem from="1617760244005" duration="294000" />
     </task>
     <servers />
   </component>
